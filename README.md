@@ -1,5 +1,5 @@
 # logica-programacao
-Este repositorio coném exercicios desenvolvidos durante meus estudos em Analise e Desenvolvimento de Sistemas (ADS) 
+Este repositorio contém exercicios desenvolvidos durante meus estudos em Analise e Desenvolvimento de Sistemas (ADS) 
 Conteudos praticados
 - Logica de programação
 - Estruturas condicionais
